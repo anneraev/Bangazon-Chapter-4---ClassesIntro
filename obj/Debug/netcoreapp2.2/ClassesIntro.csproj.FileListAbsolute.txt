@@ -1,0 +1,11 @@
+C:\Users\tonyr\31backend\ClassesIntro\bin\Debug\netcoreapp2.2\ClassesIntro.deps.json
+C:\Users\tonyr\31backend\ClassesIntro\bin\Debug\netcoreapp2.2\ClassesIntro.runtimeconfig.json
+C:\Users\tonyr\31backend\ClassesIntro\bin\Debug\netcoreapp2.2\ClassesIntro.runtimeconfig.dev.json
+C:\Users\tonyr\31backend\ClassesIntro\bin\Debug\netcoreapp2.2\ClassesIntro.dll
+C:\Users\tonyr\31backend\ClassesIntro\bin\Debug\netcoreapp2.2\ClassesIntro.pdb
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.csprojAssemblyReference.cache
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.AssemblyInfoInputs.cache
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.AssemblyInfo.cs
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.dll
+C:\Users\tonyr\31backend\ClassesIntro\obj\Debug\netcoreapp2.2\ClassesIntro.pdb
