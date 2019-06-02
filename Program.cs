@@ -8,7 +8,7 @@ namespace ClassesIntro
     {
         static void Main(string[] args)
         {
-            List<Building> Buildings = new List<Building> { };
+            City NewCity = new City();
 
             Building Hospital = new Building("222 Something Street");
             Hospital.Design("Some Person");
@@ -17,7 +17,7 @@ namespace ClassesIntro
             Hospital.depth = 300.00;
             Hospital.width = 200.00;
             Hospital.stories = 10;
-            Buildings.Add(Hospital);
+            NewCity.addBuilding(Hospital);
 
             Building Mortuary = new Building("223 Something Street");
             Mortuary.Design("Don the Designer");
@@ -26,9 +26,9 @@ namespace ClassesIntro
             Mortuary.depth = 150.00;
             Mortuary.width = 320.55;
             Mortuary.stories = 3;
-            Buildings.Add(Mortuary);
+            NewCity.addBuilding(Mortuary);
 
-            foreach (Building building in Buildings) {
+            foreach (Building building in NewCity.Buildings) {
                 string designer = building.GetDesigner();
                 string owner = building.GetOwner();
                 string address = building.GetAddress();
